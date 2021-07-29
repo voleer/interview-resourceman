@@ -11,9 +11,10 @@ instance.
 ## Instructions
 
 1. Generate a new **private** repo using this template repo.
-2. Provide your answers to your generated repo.
-3. Once your repo is ready for review, add `voleer-dev` as a collaborator for your repo.
-4. Wait for our response.
+2. Provide your answers to the questions located in the [QUESTIONS.md](QUESTIONS.md) file.
+3. Write your solution to the requirements listed below to your generated repo.
+4. Once your repo is ready for review, add `voleer-dev` as a collaborator for your repo.
+5. Wait for our response.
 
 ## Requirements
 
