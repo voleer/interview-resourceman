@@ -5,16 +5,15 @@ three parameters: the cloud provider, the memory size in GB of the instances tha
 provides, and the memory size in GB of the containers you want to place on the instances. It should
 then respond to requests for new containers by managing a pool of available instances, tracking the
 containers that have already been placed on them, and requesting new instances as necessary. Your
-teammate has already implemented an interface for placing and unplacing containers on a single
-instance.
+teammate has already implemented an `ICloudProvider` interface for placing and unplacing containers 
+on a single instance.
 
 ## Instructions
 
 1. Generate a new **private** repo using this template repo.
-2. Provide your answers to the questions located in the [QUESTIONS.md](QUESTIONS.md) file.
-3. Write your solution to the requirements listed below to your generated repo.
-4. Once your repo is ready for review, add `voleer-dev` as a collaborator for your repo.
-5. Wait for our response.
+2. Write your solution to the requirements listed below to your generated repo.
+3. Once your repo is ready for review, add `voleer-dev` as a collaborator for your repo.
+4. Wait for our response.
 
 ## Requirements
 
